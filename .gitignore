@@ -1,0 +1,27 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Logs
+*.log
+
+# Dependency directories
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
