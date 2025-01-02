@@ -2,7 +2,7 @@
 
 ## Design Patterns
 ### Creational Patterns
-- **Factory Method**: [Gang of Four Design Patterns](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633610)
+- **Factory Method**: [Factory Method Pattern](https://www.geeksforgeeks.org/factory-method-for-designing-pattern/?t)
   - Flexible object creation
   - [Martin Fowler's Explanation](https://martinfowler.com/articles/creationalPatterns.html)
 
@@ -40,7 +40,7 @@
 ### Architectural Anti-patterns
 - **Monolithic Architecture**: 
   - Rigid, hard to scale
-  - [Microservices Guide](https://microservices.io/post/microservices/2022/02/08/thats-not-microservices.html)
+  - [Microservices Guide](https://microservices.io/patterns/microservices.html)
 
 - **God Object**: 
   - Oversized, multi-responsibility class
